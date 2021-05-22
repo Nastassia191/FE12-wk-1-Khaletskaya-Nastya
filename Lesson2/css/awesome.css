@@ -1,0 +1,40 @@
+.awesome-section{
+  background: white;
+  padding: 100px 140px;
+}
+
+
+
+
+.awesome-discription {
+  margin-bottom: 67px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+ }
+
+
+.awesome-row_iteme{
+  width: 350px;
+}
+
+ .awesome-img {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #D98943; 
+  border-radius: 60px;
+   }
+
+.awesome-row_title{
+  margin-bottom: 16px;
+  font-weight: 700;
+  font-size: 20px;
+}
+.awesom-row-text{
+  text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+}

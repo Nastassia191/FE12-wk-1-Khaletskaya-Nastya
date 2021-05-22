@@ -1,0 +1,52 @@
+.customers-section{
+  background:  white;
+  padding: 80px 140px;
+}
+.customers-discription{
+  margin-bottom: 67px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.customers-row_item{
+width: 300px;
+}
+.customers-row-item_1{
+  padding: 9px 22px 6px 22px;
+  background: #E2E2E2;
+  margin-bottom: 22px;
+}
+.customers-row-item_text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+ .customers_img{
+   height: 70px;
+   width: 70px;
+   border-radius: 60px;
+ }
+
+  
+.customers-row-item-2-text_1{
+  margin-bottom: 12px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  text-transform: capitalize;
+  text-align: right;
+}
+
+.customers-row-item-2-text_2{
+   font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  text-align: right;
+  text-transform: capitalize; 
+  color: #86878B;
+}

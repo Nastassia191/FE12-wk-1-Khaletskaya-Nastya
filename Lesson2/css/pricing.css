@@ -1,0 +1,87 @@
+.prising-section{
+  background:  #E5E5E5;
+  padding: 80px 110px;
+}
+
+.pricing-discription{
+  margin-bottom: 63px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.pricing-row_item{
+width: 340px;
+
+}
+
+.pricing-row_item1{
+  background:  #333333;
+  margin-bottom: 1px;
+  padding: 15px 144px 8px 144px;
+  }
+
+.pricing-row-item1_text{
+  color: #FFFFFF;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+.pricing-row_item2{
+  background:  #333333;
+  margin-bottom: 2px;
+  padding: 26px 135px 33px 144px;
+  }
+
+ .pricing-row-item2_text{
+    color: #FFFFFF;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+ }
+
+ .pricing-row_item3{
+  background:  #333333;
+  margin-bottom: 4px;
+  padding: 17px 127px 14px 135px;
+  }
+
+  .pricing-row_item3:hover{
+  transition: 0.2s;
+  cursor: pointer;
+  background-color: orange;
+  }
+
+  .pricing-row-item3_text{
+    color: #FFFFFF;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+ .pricing-row_item4{
+  background:  #FFFFFF;
+  margin-bottom: 4px;
+  padding: 10px 123px 11px 131px;
+  }
+
+  .pricing-row-item4_text{
+    color:     #86878B;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    }
+  
+.pricing-row-item1_opt1{
+  background:  #333333;
+  margin-bottom: 2px;
+  padding: 16px 132px 7px 132px;
+}
