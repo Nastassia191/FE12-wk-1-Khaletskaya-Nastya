@@ -15,8 +15,20 @@ width: 300px;
 .customers-row-item_1{
   padding: 9px 22px 6px 22px;
   background: #E2E2E2;
+  border-radius: 10px;
   margin-bottom: 22px;
+  position: relative;
 }
+
+.customers-row-item_1::after{
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 35px;
+  border: 15px solid transparent; 
+  border-top: 15px solid #E2E2E2 ; /* Добавляем треугольник */
+}
+
 .customers-row-item_text {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;

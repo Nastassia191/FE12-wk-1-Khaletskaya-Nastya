@@ -16,6 +16,7 @@
 .section{
   width: 100%;
  }
+
 .conteiner{
   max-width: 1170px;
   padding: 15px;
@@ -34,6 +35,8 @@
   font-style: normal;
   margin-bottom: 34px;
 }
+
+
 .section-title::after{
   content:'';
 width: 64px;
@@ -48,7 +51,7 @@ margin-top: 34px;
 .section-axure_title::after{
 content:'';
 width: 64px;
-height: 2px;
+height: 2px; 
 background-color: rgba(255, 255, 255, 0.8);;
 display: block;
 margin: auto;

@@ -54,6 +54,8 @@ width: 340px;
   transition: 0.2s;
   cursor: pointer;
   background-color: orange;
+  box-shadow: 5px 5px 5px 5px rgb(182, 177, 177);
+  color: rgba(127, 131, 127, 0.8);
   }
 
   .pricing-row-item3_text{
