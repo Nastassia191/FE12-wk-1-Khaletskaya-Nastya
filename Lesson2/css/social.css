@@ -1,0 +1,50 @@
+.social-section{
+background-color:   #E5E5E5;;
+}
+
+.social-conteiner{
+  display: flex;
+  flex-wrap: wrap;
+   justify-content: space-evenly;
+   justify-content: start;
+  }
+
+
+.sosial_inform{
+  margin-right: 110px;
+}
+
+.social-inform_title{
+  text-transform: capitalize;
+  margin-bottom: 14px;
+}
+
+.social-inform_text{
+  width: 365px;
+}
+.social-inform-text_item{
+  font-family: 'Open Sans';
+font-size: 14px;
+font-style: normsl;
+font-weight: 400;
+color: #86878B;
+}
+
+.social_link{
+  color: rgba(155, 150, 150, 0.7);
+}
+
+.social_icon{
+  width: 650px;
+  font-size: 42px;
+   display: flex;
+  justify-content: space-between;
+  align-items: center;
+ }
+
+.social-icon_item:hover{
+  cursor: pointer;
+  color:rgba(89, 59, 226, 0.7);
+  transform: scale(1.4);
+  transition: 0.3s;
+}

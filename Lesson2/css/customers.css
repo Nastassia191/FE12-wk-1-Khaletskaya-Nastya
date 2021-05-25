@@ -9,8 +9,18 @@
   font-style: normal;
   font-weight: 400;
 }
+
+.customers-row{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
 .customers-row_item{
 width: 300px;
+margin: 0 15px;
 }
 .customers-row-item_1{
   padding: 9px 22px 6px 22px;
@@ -41,7 +51,7 @@ width: 300px;
    border-radius: 60px;
  }
 
-  
+ 
 .customers-row-item-2-text_1{
   margin-bottom: 12px;
   font-family: 'Open Sans', sans-serif;
@@ -61,4 +71,10 @@ width: 300px;
   text-align: right;
   text-transform: capitalize; 
   color: #86878B;
+}
+.customers-row-item_2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }

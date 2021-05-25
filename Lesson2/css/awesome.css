@@ -13,6 +13,12 @@
   font-weight: 400;
  }
 
+ .awesome-row{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
 
 .awesome-row_iteme{
   width: 350px;
@@ -32,9 +38,15 @@
   margin-bottom: 16px;
   font-weight: 700;
   font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .awesom-row-text{
   text-align: center;
   font-weight: 400;
   font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
