@@ -1,12 +1,14 @@
 .social-section{
-background-color:   #E5E5E5;;
+background-color:   #E5E5E5;
+padding: 20px 0px;
 }
 
-.social-conteiner{
+.social_row{
   display: flex;
   flex-wrap: wrap;
    justify-content: space-evenly;
-   justify-content: start;
+   align-items: center;
+   /*justify-content: start;*/
   }
 
 
@@ -34,15 +36,16 @@ color: #86878B;
   color: rgba(155, 150, 150, 0.7);
 }
 
-.social_icon{
+.social_icon_row{
   width: 650px;
   font-size: 42px;
    display: flex;
+   align-items: center;
   justify-content: space-between;
-  align-items: center;
+ 
  }
 
-.social-icon_item:hover{
+.social-icon-link_item:hover{
   cursor: pointer;
   color:rgba(89, 59, 226, 0.7);
   transform: scale(1.4);

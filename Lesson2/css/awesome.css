@@ -1,6 +1,6 @@
 .awesome-section{
   background: white;
-  padding: 100px 140px;
+  padding: 100px 0px;
 }
 
 
@@ -32,7 +32,15 @@
   margin-right: auto;
   border: 2px solid #D98943; 
   border-radius: 60px;
-   }
+  box-shadow:inset 0px 0px 15px 6px rgb(245, 183, 69, 0.5)
+    , 0px 0px 10px 10px rgb(245, 183, 69, 0.5);
+    transition: 0.3s;
+  }
+
+  .awesome-img:hover{
+  transform: scale(0.8);
+  }
+      
 
 .awesome-row_title{
   margin-bottom: 16px;

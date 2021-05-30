@@ -1,6 +1,6 @@
 .pricing-section{
   background:  #E5E5E5;
-  padding: 80px 110px;
+  padding: 80px 0px;
 }
 
 .pricing-discription{
@@ -20,10 +20,11 @@ width: 340px;
 
 }
 
-.pricing-row_item1{
+.pricing-row_item-li:first-child{
   background:  #333333;
   margin-bottom: 1px;
   padding: 15px 144px 8px 144px;
+  transition: 0.3s;
   }
 
 .pricing-row-item1_text{
@@ -35,10 +36,11 @@ width: 340px;
   font-family: 'Raleway', sans-serif;
 }
 
-.pricing-row_item2{
+.pricing-row_item-li:nth-child(2){
   background:  #333333;
   margin-bottom: 2px;
   padding: 26px 135px 33px 144px;
+  transition: 0.3s;
   }
 
  .pricing-row-item2_text{
@@ -49,14 +51,15 @@ width: 340px;
     text-align: center;
  }
 
- .pricing-row_item3{
+ .pricing-row_item-li:nth-child(3){
   background:  #333333;
   margin-bottom: 4px;
   padding: 17px 127px 14px 135px;
+  transition: 0.2s;
   }
 
-  .pricing-row_item3:hover{
-  transition: 0.2s;
+  .pricing-row_item-li:hover{
+   
   cursor: pointer;
   background-color: orange;
   transform: scale(1.005);
@@ -72,11 +75,17 @@ width: 340px;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     }
-
+ 
  .pricing-row_item4{
   background:  #FFFFFF;
   margin-bottom: 4px;
   padding: 10px 123px 11px 131px;
+  transition: 0.3s;
+  }
+  .pricing-row_item4:hover{
+    cursor: pointer;
+    background-color: rgba(226, 147, 29, 0.5);
+    transform: scale(1.03);
   }
 
   .pricing-row-item4_text{
