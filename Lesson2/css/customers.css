@@ -5,7 +5,7 @@
 .customers-discription{
   margin-bottom: 67px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 0.875rem;
   font-style: normal;
   font-weight: 400;
 }
@@ -41,7 +41,7 @@ margin: 0 15px;
 
 .customers-row-item_text {
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 0.875rem;
   font-style: normal;
   font-weight: 400;
 }
@@ -55,7 +55,7 @@ margin: 0 15px;
 .customers-row-item-2-text_1{
   margin-bottom: 12px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+  font-size: 1.25rem;
   font-style: normal;
   font-weight: 700;
   text-align: center;
@@ -65,7 +65,7 @@ margin: 0 15px;
 
 .customers-row-item-2-text_2{
    font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 0.875rem;
   font-style: normal;
   font-weight: 400;
   text-align: right;

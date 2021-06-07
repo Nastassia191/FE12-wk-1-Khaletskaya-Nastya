@@ -1,0 +1,255 @@
+@media (max-width: 1200px) {
+  html {
+      font-size: 16px;
+  }
+  .container {
+      max-width: 970px;
+  }
+  .awesome-row_iteme, .pricing-row_item, .customers-row_item{
+    margin-bottom: 20px;
+    /*width: 30%;*/
+    font-size: 8px;
+  }
+  .awesome-row_iteme:last-child,  .pricing-row_item:last-child, .customers-row_item:last-child{
+    margin-bottom: 0px;
+  }
+  .social_row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .sosial_inform{
+    margin-bottom: 25px;
+  }
+  
+  .tabs_row{
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+  }
+  .tabs-row_item{
+    margin-bottom: 25px;
+  }
+  .btn_tab{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 25px;
+  }
+  .tabs-row-item_tab{
+    margin-left: 25px;
+    height: 20px;
+   }
+}
+
+
+
+@media (max-width: 992px){
+  html{
+    font-size: 15px;
+  }
+  .conteiner{
+    max-width: 750px;
+  }
+
+  .header-nav_item{
+    margin-left: 25px;
+  }
+ 
+  .firstscreen_row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .firstscreen_button{
+       margin-bottom: 25px;
+  }
+
+.social_row{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sosial_inform{
+  margin-bottom: 25px;
+}
+
+.tabs_row{
+  display: flex;
+  flex-direction: column;
+  align-items:center ;
+}
+.tabs-row_item{
+  margin-bottom: 25px;
+}
+.btn_tab{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.tabs-row-item_tab{
+  margin-left: 25px;
+  height: 20px;
+ }
+ .awesome-row_iteme, .pricing-row_item, .customers-row_item{
+  margin-bottom: 20px;
+
+  font-size: 10px;
+}
+.awesome-row_iteme:last-child,  .pricing-row_item:last-child, .customers-row_item:last-child{
+  margin-bottom: 0px;
+}
+
+}
+
+
+@media (max-width: 767px){
+  html{
+    font-size: 14px;
+  }
+  .conteiner{
+    max-width: 90%;
+  }
+
+  .header-nav_item{
+    margin-left: 10px;
+  }
+ 
+  .firstscreen_row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .logo_row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .firstscreen_button{
+       margin-bottom: 25px;
+  }
+
+.social_row{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sosial_inform{
+  margin-bottom: 25px;
+}
+
+.tabs_row{
+  display: flex;
+  flex-direction: column;
+  align-items:center ;
+}
+.tabs-row_item{
+  margin-bottom: 25px;
+}
+.btn_tab{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.tabs-row-item_tab{
+  margin-left: 25px;
+  height: 20px;
+ }
+ .awesome-row_iteme, .pricing-row_item, .customers-row_item{
+  margin-bottom: 20px;
+
+  font-size: 8px;
+}
+.awesome-row_iteme:last-child,  .pricing-row_item:last-child, .customers-row_item:last-child{
+  margin-bottom: 0px;
+}
+
+}
+
+
+@media (max-width: 480px){
+  html{
+    font-size: 10px;
+  }
+  .conteiner{
+    max-width: 90%;
+  }
+
+  .header-nav_item{
+    margin-left: 8px;
+  }
+ 
+  .firstscreen_row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .logo_row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .firstscreen_button{
+       margin-bottom: 25px;
+  }
+
+.social_row{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sosial_inform{
+  margin-bottom: 15px;
+}
+
+.social_icon_row{
+  margin: 20px 0 0 0;
+  width: 80%;
+  font-size: 3px;
+}
+
+
+
+.tabs_row{
+  display: flex;
+  flex-direction: column;
+  align-items:center ;
+}
+.tabs-row_item{
+  margin-bottom: 25px;
+}
+.btn_tab{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 25px;
+}
+.tabs-row-item_tab{
+  margin-left: 25px;
+  height: 20px;
+ }
+ .awesome-row_iteme, .pricing-row_item, .customers-row_item{
+  margin-bottom: 20px;
+  width: 40%;
+  font-size: 8px;
+}
+.awesome-row_iteme:last-child,  .pricing-row_item:last-child, .customers-row_item:last-child{
+  margin-bottom: 0px;
+}
+
+}
+

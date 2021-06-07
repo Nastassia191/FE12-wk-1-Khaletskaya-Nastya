@@ -27,7 +27,7 @@
   transition: 0.3s;
 }
 .footer-icon-link_item{ 
-  font-size: 23px;
+  font-size: 1.4375rem;
   transition: 0.3s;
 }
 .footer-icon-link_item:hover{
@@ -37,7 +37,7 @@
   }
 
 .footer_text{
-  font-size: 12px;
+  font-size: 0.75rem;
   font-family: 'Open sans';
   font-style: normal;
   width: 130px;

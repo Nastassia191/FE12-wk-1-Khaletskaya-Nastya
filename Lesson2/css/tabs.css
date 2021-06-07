@@ -1,0 +1,93 @@
+.tabs-section{
+  background-color: white;
+  padding: 126px 0px;
+}
+
+.tabs_row{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.tabs-row_item{
+  display: flex;
+  flex-direction: column;
+ }
+
+.tabs-row-item_tab{
+  background-color: #D98943;
+  max-width: 112px;
+  padding: 45px 35px;
+  margin-bottom: 10px;
+  transition: 0.5s;
+  border: none;
+  font-family: 'Open Sans';
+  font-size: 0.9375rem;
+  font-style: normal;
+  font-weight: 700;
+  color: white;
+}
+
+.tabs-row-item_tab:last-child{
+  margin-bottom: -10px;
+}
+
+.tabs-row-item_tab:hover{
+background-color: rgba(0, 0, 0, 0.5 );
+cursor: pointer;
+border-radius: 6px;
+transform:rotateY(180deg);
+}
+
+.tabs-row-title{
+  font-family: 'Open Sans';
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 58px;
+  margin-top: 20px;
+}
+
+.tabs-row_text{
+  max-width: 572px;
+  margin-bottom: 89px;
+  color: #86878B;
+  font-family: 'Open Sans';
+  font-size: 0.875rem;
+  font-style: normal;
+  font-weight: 400;
+}
+.tabs-row-text_item{
+  margin-bottom: 25px;
+}
+.tabs-row-text_item:last-child{
+  margin-bottom: -25px;
+}
+
+.tabs-row_button{
+  max-width: 135px;
+  display: block;
+  padding: 11px 27px;
+  background-color: #D98943;
+}
+.tabs-row-button-link{
+  text-decoration: none;
+  font-family: 'Open Sans';
+  font-size: 0.9375rem;
+  font-style: normal;
+  font-weight: 600;
+  color: white;
+  transition: 0.3s;
+}
+
+.tabs-row_button:active{
+  cursor: pointer;
+background-color: #C4C4C4;
+transform: scale(0.8);
+}
+
+.tabs-row-item_image{
+  max-width: 320px;
+}

@@ -30,7 +30,7 @@ color: white;
 .axure-discription{
   margin-bottom: 57px;
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 300;
   font-style: normal;
   color: rgba(255, 255, 255, 0.8);
@@ -43,7 +43,7 @@ color: white;
 }
 .axure-button_link{
   padding: 11px 26px;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-weight: 600;
   text-transform: capitalize;
   border: 1px solid #C4C4C4;

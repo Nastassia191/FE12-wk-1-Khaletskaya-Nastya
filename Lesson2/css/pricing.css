@@ -6,7 +6,7 @@
 .pricing-discription{
   margin-bottom: 63px;
   font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 400;
 }
 
@@ -29,7 +29,7 @@ width: 340px;
 
 .pricing-row-item1_text{
   color: #FFFFFF;
-  font-size: 20px;
+  font-size: 1.25rem;
   font-style: normal;
   font-weight: 700;
   text-align: center;
@@ -45,7 +45,7 @@ width: 340px;
 
  .pricing-row-item2_text{
     color: #FFFFFF;
-    font-size: 35px;
+    font-size: 2.1875rem;
     font-style: normal;
     font-weight: 700;
     text-align: center;
@@ -69,7 +69,7 @@ width: 340px;
 
   .pricing-row-item3_text{
     color: #FFFFFF;
-    font-size: 12px;
+    font-size: 0.75rem;
     font-style: normal;
     font-weight: 600;
     text-align: center;
@@ -90,7 +90,7 @@ width: 340px;
 
   .pricing-row-item4_text{
     color:     #86878B;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-style: normal;
     font-weight: 400;
     text-align: center;

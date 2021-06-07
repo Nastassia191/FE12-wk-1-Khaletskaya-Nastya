@@ -27,7 +27,7 @@
 }
 .logo-firstscreen_text{
   color: whitesmoke;
-  font-size: 60px;
+  font-size: 3.75rem;
   font-style: normal;
   font-weight: 600;
   text-transform: uppercase;
@@ -37,13 +37,13 @@
 .logo-firstscreen_text::after{
   color:  #D98943;
   content: "it";
-  font-size: 60px;
+  font-size: 3.75rem;
   text-transform: uppercase;
 }
 
 .firstscreen-title{
-  width: 545px;
-  font-size: 36px;
+  max-width: 545px;
+  font-size: 2.25rem;
   color: white;
   font-style: normal;
   font-weight: 400;
@@ -66,7 +66,7 @@
   color: rgba(255, 255, 255, 0.8);
   font-family:  'Raleway';
   font-style: normal;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .firstscreen_button{
@@ -74,7 +74,7 @@
 }
 .firstscreen-button_link{
   padding: 11px 26px;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-weight: 600;
   text-transform: capitalize;
   border: 1px solid #C4C4C4;
@@ -104,7 +104,7 @@
 }
 
 .firstscreen_form_title{
-font-size: 20px;
+font-size: 1.25rem;
 font-style: normal;
 font-family: 'Open Sans';
 text-transform: capitalize;
@@ -131,13 +131,13 @@ margin-bottom: 45px;
 
   .firstscreen-form-content-row_item_label{
     color: #BDBDBD;
-    font-size: 14px;
+    font-size: 0.875rem;
     font-style: normal;
     font-family: 'Open Sans';
   }
     
   .firstscreen-form-content-row_item_input{
-    width: 252px;
+    max-width: 252px;
     border: none;
     border-bottom: 1px solid rgba(194, 194, 194, 0.8);
   }
@@ -164,7 +164,7 @@ margin-bottom: 45px;
 .firstscreen-form_button-item{
   background-color: transparent;
   color: white;
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-style: normal;
   font-family: 'Open Sans';
   text-transform: capitalize; 

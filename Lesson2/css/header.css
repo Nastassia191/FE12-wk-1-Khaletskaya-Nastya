@@ -16,7 +16,7 @@
 
 
 .logo_text{
-  font-size: 30px;
+  font-size: 1.875rem;
   font-family: 'raleway';
   font-style: normal;
   font-weight: normal;
@@ -26,7 +26,7 @@
 
 .logo_text::after{
   content: 'it';
-  font-size: 30px;
+  font-size: 1.875rem;
   color: #D98943;
   text-transform: uppercase;
   font-family: raleway;
